@@ -1,0 +1,10 @@
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\bin\Debug\ASL - Apache Software Foundation License.txt
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\bin\Debug\Splicer.pdb
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\bin\Debug\DirectShowLib-2005.pdb
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\obj\Debug\Splicer.csprojResolveAssemblyReference.cache
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\obj\Debug\Splicer.Properties.Resources.resources
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\obj\Debug\Splicer.csproj.GenerateResource.Cache
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\obj\Debug\Splicer.pdb
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\bin\Debug\Splicer.exe
+C:\Users\Ravindra Naik\Downloads\splicer-source-1.0.0.0\splicer-source-1.0.0.0\Splicer\obj\Debug\Splicer.exe
